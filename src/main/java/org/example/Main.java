@@ -7,6 +7,5 @@ public class Main {
         //Commentaire ici
         //🗿
         System.out.println("Hello, World2!");
-        //Je rajoute une ligne de commentaire
     }
 }
